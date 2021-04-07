@@ -5,7 +5,7 @@ Hello, we are a team of researchers from IBM Research working on Spatial and tim
 * Joshua Rosenkranz
 * Syed Yousaf Shah
 * Mudhakar Srivatsa
-* Tuan Trong
+* Tuan Hoang Trong
 * Petros Zerfos
 
 There have been several other team members who contributed, no longer with IBM:
